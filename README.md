@@ -5,8 +5,6 @@ Ficha de estudos - React Native / Desenvolvimento de Aplicações
 
 Este repositório foi criado para meus estudos de **React Native com Expo**, utilizando o **GitHub Codespaces** como ambiente principal de desenvolvimento.
 
-Como estou usando um Chromebook com limitações para instalar programas como VS Code, Node.js e Android Studio, este projeto foi pensado para funcionar diretamente pelo navegador, usando o terminal e os arquivos do próprio Codespaces.
-
 ---
 
 ## 🚀 Tecnologias utilizadas
